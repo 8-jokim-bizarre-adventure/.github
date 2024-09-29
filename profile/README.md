@@ -28,15 +28,15 @@
 <div align="center">
 <table>
     <tr>
-        <td height="420px" align="center"> <a href="https://github.com/bbang7">
+        <td height="360px" align="center"> <a href="https://github.com/bbang7">
             <img src="./readme-assets/jo-byeong-cheol.png" width="280px" /> <br> 🌞 조병철 <br>(Frontend) </a> <br></td>
-        <td height="420px" align="center"> <a href="https://github.com/jangdebug">
+        <td height="360px" align="center"> <a href="https://github.com/jangdebug">
             <img src="./readme-assets/kim-jang-hoon.png" width="280px" /> <br> 🐱 김장훈 <br>(Frontend) </a> <br></td>
-        <td height="420px" align="center"> <a href="https://github.com/gyudol">
+        <td height="360px" align="center"> <a href="https://github.com/gyudol">
             <img src="./readme-assets/kim-gyu-chan.png" width="280px" /> <br> 🏸 김규찬 <br>(Infra & Backend) </a> <br></td>
-        <td height="420px" align="center"> <a href="https://github.com/aidzero01">
+        <td height="360px" align="center"> <a href="https://github.com/aidzero01">
             <img src="./readme-assets/kim-seong-soo.png" width="280px" /> <br> 🐹 김성수 <br>(Backend) </a> <br></td>
-        <td height="420px" align="center"> <a href="https://github.com/everydayday">
+        <td height="360px" align="center"> <a href="https://github.com/everydayday">
             <img src="./readme-assets/kim-dae-hee.png" width="280px" /> <br> 👨🏻‍💻 김대희 <br>(Backend) </a> <br></td>
     </tr>
 </table>
