@@ -10,12 +10,12 @@
   <tbody align="center"> 
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img img width="100%" src="./readme-assets/thumbnail.png"  />
+        <img width="100%" src="./readme-assets/thumbnail.png"  />
       </td>
       <td align="center" valign="middle" width="50%">
         <div style="display: inline-block; text-align: center;">
-          <img img width="100%" src="./readme-assets/service_access_qr.png" /> <br><br>
-          <img img width="100%" src="./readme-assets/service_access_qr.png" />
+          <img width="100%" src="./readme-assets/service_access_qr.png" /> <br><br>
+          <img width="100%" src="./readme-assets/service_access_qr.png" />
         </div>
       </td>
     </tr>
@@ -167,13 +167,13 @@
 <div align="center"> 
 <table>
   <tbody align="center"> 
-    <tr> <th style="text-align: center"> Main Page </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
-    <tr> <td width="33%"><video width="100%" src="./readme-assets/main_page.mp4"/></td> 
-    <td width="33%"><video width="100%" src="./readme-assets/signin_signup.mp4"/></td> 
-      <td width="33%"><video width="100%" src="./readme-assets/brand.mp4"/></td> </tr>
+    <tr> <th style="text-align: center"> <h3>Main Page</h3> </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
+    <tr> <td width="33%"><img width="100%" src="./readme-assets/main_page.gif"/></td> 
+    <td width="33%"><img width="100%" src="./readme-assets/signin_signup.gif"/></td> 
+      <td width="33%"><img width="100%" src="./readme-assets/brand.gif"/></td> </tr>
     <tr> <th style="text-align: center"> Product Detail </th> <th style="text-align: center"> Basket </th> <th style="text-align: center"> Infinite Scroll </th> </tr>
-    <tr> <td width="33%"><video width="100%" src="./readme-assets/product_detail.mp4"/></td> <td width="33%"><video width="100%" src="./readme-assets/basket.mp4"/></td> 
-      <td width="33%"><video width="100%" src="./readme-assets/infinite_scroll.mp4"/></td> </tr>
+    <tr> <td width="33%"><img width="100%" src="./readme-assets/product_detail.gif"/></td> <td width="33%"><img width="100%" src="./readme-assets/basket.gif"/></td> 
+      <td width="33%"><img width="100%" src="./readme-assets/infinite_scroll.gif"/></td> </tr>
   </tbody>
 </table>
 </div>
