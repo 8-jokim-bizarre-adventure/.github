@@ -2,7 +2,7 @@
 신세계 인터내셔날 공식몰 S.I.VILLAGE 리빌딩 프로젝트 <br>
 100만 명 이상의 사용자에게 대용량 데이터를 효율적으로 제공할 수 있는 시스템 설계를 목표로 S.I.VILAGE 스토어를 리빌딩합니다.
 
-- **개발 기간** : 2024.08.06 ~ 2023.09.30 (6주)
+- **개발 기간** : 2024.08.06 ~ 2023.09.30 (7주)
 - **플랫폼** : Web
 - **개발 인원** : 5명 <br><br>
 
@@ -45,9 +45,9 @@
         <td height="320px" align="center"> <a href="https://github.com/jangdebug">
             <img src="./readme-assets/kim-jang-hoon.png" width="160px" /> <br> 🐱 김장훈 <br>(Frontend) </a> <br></td>
         <td height="320px" align="center"> <a href="https://github.com/gyudol">
-            <img src="./readme-assets/kim-gyu-chan.png" width="160px" /> <br> 🏸 김규찬 <br>(Backend & DevOps) </a> <br></td>
+            <img src="./readme-assets/kim-gyu-chan.png" width="160px" /> <br> 🐹 김규찬 <br>(Backend & DevOps) </a> <br></td>
         <td height="320px" align="center"> <a href="https://github.com/aidzero01">
-            <img src="./readme-assets/kim-seong-soo.png" width="160px" /> <br> 🐹 김성수 <br>(Backend) </a> <br></td>
+            <img src="./readme-assets/kim-seong-soo.png" width="160px" /> <br> 😈 김성수 <br>(Backend) </a> <br></td>
         <td height="320px" align="center"> <a href="https://github.com/everydayday">
             <img src="./readme-assets/kim-dae-hee.png" width="160px" /> <br> 👨🏻‍💻 김대희 <br>(Backend) </a> <br></td>
     </tr>
@@ -59,20 +59,14 @@
       </td>
       <td width="160px">
         <sub>
-          Best, Brand, Event, 장바구니, 주문, 마이페이지 퍼블리싱 및 연동
+          Best, Brand, Event, 장바구니, 마이페이지 퍼블리싱 및 연동
         </sub>
       </td>
       <td width="160px">
         <sub>
-        CI/CD 환경 및 인프라 구축, <br>
+        CI/CD 환경 및 인프라 구축 <br>
         <strong>API</strong>: Category, ProductList, Media, Brand, Wishlist & Like, 장바구니, 주문 <br>
         <strong>데이터 가공</strong>: Category, Brand, Product, Media
-        </sub>
-      </td>
-      <td width="160px">
-        <sub>
-          <strong>API</strong>: Product, Product Option <br>
-        <strong>데이터 가공</strong>: ProductOption
         </sub>
       </td>
       <td width="160px">
@@ -81,6 +75,12 @@
           <strong>API</strong>: Review, Statistics, 로그인/회원가입, 마이페이지 <br>
         <strong>데이터 가공</strong>: Review
         </sub>
+        </sub>
+      </td>
+      <td width="160px">
+        <sub>
+          <strong>API</strong>: Product, Product Option <br>
+        <strong>데이터 가공</strong>: ProductOption
       </td>
     </tr>
 </table>
@@ -165,8 +165,17 @@
 ## 📲 기능 구성
 <a name="skills"></a>
 <div align="center"> 
-
-**추가 예정**
+<table>
+  <tbody align="center"> 
+    <tr> <th style="text-align: center"> Main Page </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
+    <tr> <td width="33%"><video width="100%" src="./readme-assets/main_page.mp4"/></td> 
+    <td width="33%"><video width="100%" src="./readme-assets/signin_signup.mp4"/></td> 
+      <td width="33%"><video width="100%" src="./readme-assets/brand.mp4"/></td> </tr>
+    <tr> <th style="text-align: center"> Product Detail </th> <th style="text-align: center"> Basket </th> <th style="text-align: center"> Infinite Scroll </th> </tr>
+    <tr> <td width="33%"><video width="100%" src="./readme-assets/product_detail.mp4"/></td> <td width="33%"><video width="100%" src="./readme-assets/basket.mp4"/></td> 
+      <td width="33%"><video width="100%" src="./readme-assets/infinite_scroll.mp4"/></td> </tr>
+  </tbody>
+</table>
 </div>
 <br>
 
