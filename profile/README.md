@@ -6,16 +6,22 @@
 - **플랫폼** : Web
 - **개발 인원** : 5명 <br><br>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="display: flex;  flex-direction: row;">
-    <img src="./readme-assets/thumbnail.png"  height="500px" style="margin-right: 20px" />
-    <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-      <img src="./readme-assets/service_access_qr.png" width="200px" height="220px" style="margin-bottom: 20px" />
-      <img src="./readme-assets/service_access_qr.png" width="200px" height="220px" />
-    </div>
-  </div>
-</div>
-<br><br>
+<table align="center">
+  <tbody align="center"> 
+    <tr>
+      <td align="center" valign="middle" width="50%">
+        <img img width="100%" src="./readme-assets/thumbnail.png"  />
+      </td>
+      <td align="center" valign="middle" width="50%">
+        <div style="display: inline-block; text-align: center;">
+          <img img width="100%" src="./readme-assets/service_access_qr.png" /> <br><br>
+          <img img width="100%" src="./readme-assets/service_access_qr.png" />
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table> <br>
+
 
 ## 🔎 목차
 <div align="center">
