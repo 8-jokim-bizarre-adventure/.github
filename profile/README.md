@@ -167,13 +167,13 @@
 <div align="center"> 
 <table>
   <tbody align="center"> 
-    <tr> <th style="text-align: center"> <h3>Main Page</h3> </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
+    <tr> <th style="text-align: center"> Main Page</h3> </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
     <tr> <td width="33%"><img width="100%" src="./readme-assets/main_page.gif"/></td> 
     <td width="33%"><img width="100%" src="./readme-assets/signin_signup.gif"/></td> 
       <td width="33%"><img width="100%" src="./readme-assets/brand.gif"/></td> </tr>
-    <tr> <th style="text-align: center"> Product Detail </th> <th style="text-align: center"> Basket </th> <th style="text-align: center"> Infinite Scroll </th> </tr>
+    <tr> <th style="text-align: center"> Product Detail </th> <th style="text-align: center"> Basket </th> <th style="text-align: center"> Product List Infinite Scroll </th> </tr>
     <tr> <td width="33%"><img width="100%" src="./readme-assets/product_detail.gif"/></td> <td width="33%"><img width="100%" src="./readme-assets/basket.gif"/></td> 
-      <td width="33%"><img width="100%" src="./readme-assets/infinite_scroll.gif"/></td> </tr>
+      <td width="33%"><img width="100%" src="./readme-assets/product_list_infinite_scroll.gif"/></td> </tr>
   </tbody>
 </table>
 </div>
