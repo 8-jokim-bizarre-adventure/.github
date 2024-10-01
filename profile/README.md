@@ -14,7 +14,7 @@
       </td>
       <td align="center" valign="middle" width="50%">
         <div style="display: inline-block; text-align: center;">
-          <img width="100%" src="./readme-assets/service_access_qr.png" /> <br><br>
+          <img width="100%" src="./readme-assets/sivillage_logo.png" /> <br><br>
           <img width="100%" src="./readme-assets/service_access_qr.png" />
         </div>
       </td>
