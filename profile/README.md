@@ -2,7 +2,7 @@
 신세계 인터내셔날 공식몰 S.I.VILLAGE 리빌딩 프로젝트 <br>
 100만 명 이상의 사용자에게 대용량 데이터를 효율적으로 제공할 수 있는 시스템 설계를 목표로 S.I.VILAGE 스토어를 리빌딩합니다.
 
-- **개발 기간** : 2024.08.06 ~ 2023.09.30 (7주)
+- **개발 기간** : 2024.08.06 ~ 2024.09.30 (7주)
 - **플랫폼** : Web
 - **개발 인원** : 5명 <br><br>
 
@@ -167,7 +167,7 @@
 <div align="center"> 
 <table>
   <tbody align="center"> 
-    <tr> <th style="text-align: center"> Main Page</h3> </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
+    <tr> <th style="text-align: center"> Main Page </th> <th style="text-align: center"> Sign Up / Sign In </th> <th style="text-align: center"> Brand </th> </tr>
     <tr> <td width="33%"><img width="100%" src="./readme-assets/main_page.gif"/></td> 
     <td width="33%"><img width="100%" src="./readme-assets/signin_signup.gif"/></td> 
       <td width="33%"><img width="100%" src="./readme-assets/brand.gif"/></td> </tr>
