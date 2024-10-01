@@ -188,7 +188,7 @@
   </summary>
 
   ```
-  📦frontfend
+  📦frontend
  ┣ 📂.husky
  ┣ 📂public
  ┃ ┣ 📂assets
