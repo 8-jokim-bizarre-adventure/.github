@@ -603,6 +603,22 @@
 <img src="./readme-assets/erd_image.png"/>
 </div>
 
+<h3>📜 Swagger API Docs</h3>
+<details>
+  <summary>
+    자세히
+  </summary>
+    <img src="./readme-assets/swagger_docs.png"/>
+</details>
+
+<h3>🗃️ Data 집계</h3>
+<details>
+  <summary>
+    자세히
+  </summary>
+    <img src="./readme-assets/total_data.png"/>
+</details>
+
 <h3><a href="https://docs.google.com/spreadsheets/d/1ORgQ3SfN6lYpZYbLtl5h9VWyCNxmcLcOwg_KS7RETA0/edit?gid=118836952#gid=118836952" target="_blank">📅 WBS</a></h3>
 
 <h3><a href="https://docs.google.com/spreadsheets/d/1ORgQ3SfN6lYpZYbLtl5h9VWyCNxmcLcOwg_KS7RETA0/edit?gid=1474673446#gid=1474673446" target="_blank">📋 요구사항 정의서</a></h3>
